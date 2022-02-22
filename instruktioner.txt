@@ -1,0 +1,24 @@
+AK2P Grupp 8
+
+Behandla de matematiska begreppen enligt följande avbildningar:
+
+1. Illustrera begreppet determinant genom avbildning B.
+2. Illustrera begreppet invers genom avbildning C. Se Not 1.
+3. Illustrera begreppen egenvärde och egenvektor genom avbildning A.
+4. Illustrera begreppen nollrum och värderum genom avbildning C.
+5. Illustrera begreppet sammansatt avbildning genom avbildningarna B och A. Se Not 2.
+
+Not 1: Det kan inträffa att den aktuella avbildningen saknar invers. 
+       I så fall skall ni illustrera att avbildningen C saknar invers.
+
+Not 2: För den sammansatta avbildningen skall ni klargöra i vilken
+       ordning transformationerna verkar på ert objekt och hur
+       motsvarande matrisprodukt ser ut. Ange vilken avbildningsmatris
+       som skall stå till vänster och vilken avbildningsmatris som
+       skall stå till höger.
+
+Rotation: egenvärde, egenvektor
+Skjuvning: determinant
+projektion: Invers, nollrum, värderum.
+
+Sammansatt: Skjuvning -> rotation.
